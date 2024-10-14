@@ -13,3 +13,4 @@ frequency filtering method that extracts spatial features in the frequency domai
 cost. Notably, on the FF++ c40 compressed dataset, CMViT achieves an impressive 97.44% Area Under the Curve score,
 significantly outperforming existing methods.
 Keywords Deepfake, Convolutional neural network, global features, visual transformers, attention mechanism
+![image](https://github.com/user-attachments/assets/26984345-f49d-44ee-ad4d-9fbb7dafe8d7)
