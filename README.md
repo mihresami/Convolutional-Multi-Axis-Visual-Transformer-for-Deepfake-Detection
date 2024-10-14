@@ -1,5 +1,8 @@
 Convolutional Multi-Axis Visual Transformer for Deepfake Detection
-Abstract The recent advancement of DeepFake technology has raised several concerns due to its potential to spread
+
+Abstract 
+
+The recent advancement of DeepFake technology has raised several concerns due to its potential to spread
 misinformation. Although existing methods relying on Deep Neural Networks (DNNs) achieve promising results, they still
 struggle to identify deepfakes with subtle visual defects and detect compressed formats. Additionally, many detection methods are computationally demanding, limiting their use in resource-constrained environments. We propose a novel lightweight
 Convolutional Multi-Axis Vision Transformer (CMViT) for deepfake detection to address these challenges. CMViT leverages
